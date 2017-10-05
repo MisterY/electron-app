@@ -1,2 +1,5 @@
-node_modules
+#node_modules
 src/node_modules
+
+src/simple/node_modules
+src/reactapp/node_modules
