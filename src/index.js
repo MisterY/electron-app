@@ -1,5 +1,6 @@
 /*
- *  electron-app code
+ * electron-app code.
+ * This is the main file.
  */
 const electron = require('electron')
 //const {app, BrowserWindow} = require('electron')
